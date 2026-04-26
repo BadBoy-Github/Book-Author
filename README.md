@@ -153,6 +153,3 @@ Database connection settings are configured in `persistence.xml`:
 5. Run tests and ensure they pass
 6. Submit a pull request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
